@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Images/cursor1.cur</file>
+        <file>Images/Disney_42.png</file>
+        <file>Images/icon1.ico</file>
+        <file>Images/icon2.ico</file>
+        <file>Images/img002.jpg</file>
+        <file>Images/spider1.bmp</file>
+        <file>Images/super_spy.bmp</file>
+        <file>Images/Water lilies.jpg</file>
+        <file>Images/WomanAndDog.jpg</file>
+    </qresource>
+</RCC>
